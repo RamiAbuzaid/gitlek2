@@ -140,6 +140,9 @@ List item
 >>>>>>> 360ac36f8ee7d66c3a1757ac06da8c3e8a3a4dcc
 >>>>>>> 7209a9761bbbe7095b50bc458627350d883d5953
 <<<<<<< HEAD
+>>>>>>> da88f1f27e9ca1eb16a1f1dcc1f91f0c80bb565f							( ^ this i a supersqript ^ )
+=======
+<<<<<<< HEAD
 
 Nested List
 
@@ -185,3 +188,4 @@ Mixed Nested Lists
 >>>>>>> da88f1f27e9ca1eb16a1f1dcc1f91f0c80bb565f
 >>>>>>> dcc81f80b24cbe918bac26af12ee8fbd0b21b1cd
 >>>>>>> fd5f7432f702a04227f10aa002b9ac8e3cb8d8c5
+>>>>>>> 9d7b210e29a3a30041f7ab778257c1cc1a355d31
