@@ -68,5 +68,21 @@ uploud picture
 
 Blockqoute 
 
+<<<<<<< HEAD
 > This is blockqoute 
 >>>>>>> abdf165b33b0463b38a946bf621e29b5778ca7fe
+=======
+> This is blockqoute
+
+
+
+
+Term 1
+Definition of Term 1
+
+Term 2
+Definition of Term 2
+
+Term 3 
+Definition of Term 3
+>>>>>>> 5d12f3f93addda48809ff5511060f99f5239335a
