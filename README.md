@@ -110,3 +110,9 @@ Definition of Term 3
 - [ ] Task 6
 -
 >>>>>>> 71486ed954c490ff3edb83784f0ba72bac749a8a
+
+>>List item
+
+1. Item 1
+2. Item 2
+
