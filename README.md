@@ -28,3 +28,7 @@ ec964fc36a361f9192d675ad2e577ef293c6e2b1
 
 * Item X 
 * Item Y
+
+**This is bold** text
+
+*This is italic* text
