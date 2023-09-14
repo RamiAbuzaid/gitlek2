@@ -85,6 +85,15 @@ Definition of Term 2
 
 Term 3 
 Definition of Term 3
+<<<<<<< HEAD
+
+
+>Markdown
+
+[Visit Google](https://www.google.com)
+
+[Visit Linkedin](https://www.linkedin.com/in/liza-t%C3%A4llg%C3%A5rd-4967a122b/)
+=======
 >>>>>>> 5d12f3f93addda48809ff5511060f99f5239335a
 
 |   |   |   |   |   |
@@ -100,9 +109,13 @@ Definition of Term 3
 - [ ] Task 5
 - [ ] Task 6
 -
+<<<<<<< HEAD
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
 
+=======
+>>>>>>> 71486ed954c490ff3edb83784f0ba72bac749a8a
+>>>>>>> 360ac36f8ee7d66c3a1757ac06da8c3e8a3a4dcc
