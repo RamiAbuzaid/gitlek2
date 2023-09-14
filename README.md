@@ -114,7 +114,9 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
 
-[^bignote]: Here's one with multiple paragraphs and code.
+[^bignote]: Here's one with multiple paragraphs and code
+
+~~This is strikethrough text.~~.
 
 =======
 >>>>>>> 71486ed954c490ff3edb83784f0ba72bac749a8a
