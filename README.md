@@ -109,4 +109,8 @@ Definition of Term 3
 - [ ] Task 5
 - [ ] Task 6
 -
->>>>>>> 71486ed954c490ff3edb83784f0ba72bac749a8a
+>>````
+```
+Look! You can see my backticks.
+```
+````													>>>>> 71486ed954c490ff3edb83784f0ba72bac749a8a
