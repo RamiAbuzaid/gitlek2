@@ -137,4 +137,53 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 =======
 >>>>>>> 360ac36f8ee7d66c3a1757ac06da8c3e8a3a4dcc
 >>>>>>> 7209a9761bbbe7095b50bc458627350d883d5953
+<<<<<<< HEAD
 >>>>>>> da88f1f27e9ca1eb16a1f1dcc1f91f0c80bb565f							( ^ this i a supersqript ^ )
+=======
+<<<<<<< HEAD
+
+Nested List
+
+Unordered nested lists
+- Main item
+  - Subitem 1
+    - Sub-subitem A
+    - Sub-subitem B
+  - Subitem 2
+- Another main item
+
+Ordered  Nested Lists
+
+1. Main item
+   1. Subitem 1
+      1. Sub-subitem A
+      2. Sub-subitem B
+   2. Subitem 2
+2. Another main item
+
+
+Mixed Nested Lists
+
+- Main item 1
+  1. Subitem A
+  2. Subitem B
+- Main item 2
+  - Subitem X
+  - Subitem Y
+    1. Sub-subitem i
+    2. Sub-subitem ii
+- Main item 3
+
+
+
+
+=======
+<<<<<<< HEAD
+
+<sup>superscript</sup> content example.
+<sub>subscript</sub> content example.
+=======
+>>>>>>> da88f1f27e9ca1eb16a1f1dcc1f91f0c80bb565f
+>>>>>>> dcc81f80b24cbe918bac26af12ee8fbd0b21b1cd
+>>>>>>> fd5f7432f702a04227f10aa002b9ac8e3cb8d8c5
+>>>>>>> 9d7b210e29a3a30041f7ab778257c1cc1a355d31
