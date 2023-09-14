@@ -120,4 +120,13 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 =======
 >>>>>>> 71486ed954c490ff3edb83784f0ba72bac749a8a
+<<<<<<< HEAD
+
+>List item
+
+1. Item 1
+2. Item 2
+
+=======
 >>>>>>> 360ac36f8ee7d66c3a1757ac06da8c3e8a3a4dcc
+>>>>>>> 7209a9761bbbe7095b50bc458627350d883d5953
