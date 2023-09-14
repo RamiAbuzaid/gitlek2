@@ -1,6 +1,7 @@
 
 <<<<<<< HEAD
-# gitleeeffff
+# gitleeefff				How to use horizontal lines ***
+
 ####teeest123445g123r45ggg
 =======
 # gitlek2
@@ -58,5 +59,14 @@ ec964fc36a361f9192d675ad2e577ef293c6e2b1
 
 uploud picture
 
+<<<<<<< HEAD
 ![Markdown Logo] (https://markdown-here.com/img/icon256.png)
 >>>>>>> 53973760c4c0c89d957f44493e5c166caeb3bf2a
+=======
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+
+Blockqoute 
+
+> This is blockqoute 
+>>>>>>> abdf165b33b0463b38a946bf621e29b5778ca7fe
