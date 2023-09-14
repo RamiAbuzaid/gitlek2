@@ -1,6 +1,7 @@
 
 <<<<<<< HEAD
-# gitleeeffff
+# gitleeefff				How to use horizontal lines ***
+
 ####teeest123445g123r45ggg
 =======
 # gitlek2
