@@ -77,6 +77,8 @@ Blockqoute
 
 
 
+Definition List
+
 Term 1
 Definition of Term 1
 
@@ -88,7 +90,7 @@ Definition of Term 3
 <<<<<<< HEAD
 
 
->Markdown
+Markdown
 
 [Visit Google](https://www.google.com)
 
@@ -129,7 +131,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 >>>>>>> 71486ed954c490ff3edb83784f0ba72bac749a8a
 <<<<<<< HEAD
 
->List item
+List item
 
 1. Item 1
 2. Item 2
