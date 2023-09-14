@@ -128,3 +128,39 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 =======
 >>>>>>> 360ac36f8ee7d66c3a1757ac06da8c3e8a3a4dcc
 >>>>>>> 7209a9761bbbe7095b50bc458627350d883d5953
+
+Nested List
+
+Unordered nested lists
+- Main item
+  - Subitem 1
+    - Sub-subitem A
+    - Sub-subitem B
+  - Subitem 2
+- Another main item
+
+Ordered  Nested Lists
+
+1. Main item
+   1. Subitem 1
+      1. Sub-subitem A
+      2. Sub-subitem B
+   2. Subitem 2
+2. Another main item
+
+
+Mixed Nested Lists
+
+- Main item 1
+  1. Subitem A
+  2. Subitem B
+- Main item 2
+  - Subitem X
+  - Subitem Y
+    1. Sub-subitem i
+    2. Sub-subitem ii
+- Main item 3
+
+
+
+
