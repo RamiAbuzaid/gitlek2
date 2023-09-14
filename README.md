@@ -86,3 +86,9 @@ Definition of Term 2
 Term 3 
 Definition of Term 3
 >>>>>>> 5d12f3f93addda48809ff5511060f99f5239335a
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
