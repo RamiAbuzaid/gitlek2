@@ -189,3 +189,13 @@ Mixed Nested Lists
 >>>>>>> dcc81f80b24cbe918bac26af12ee8fbd0b21b1cd
 >>>>>>> fd5f7432f702a04227f10aa002b9ac8e3cb8d8c5
 >>>>>>> 9d7b210e29a3a30041f7ab778257c1cc1a355d31
+
+
+### Ading list
+
+1. Item list 1
+2. Item list 2
+3. Item list 3
+    1. item 1
+    2. item 2
+    3. item 3
